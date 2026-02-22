@@ -8,4 +8,4 @@ Final code for Mock Garbage Collection Robot for Unified Robotics II: Sensing (R
 
 Videos
 - [Romi Train](https://youtube.com/shorts/aRKS1n_RtuU?feature=share)
-- [MQTT](https://youtube.com/shorts/aRKS1n_RtuU?feature=share) 
+- [MQTT](https://youtube.com/shorts/GrMnTlOGEmU?feature=share) 
